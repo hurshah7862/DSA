@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSA", "DSA\DSA.csproj", "{95A9B0BD-A278-4F44-812A-9F4E00FF5913}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting", "Sorting\Sorting.csproj", "{D93C837F-D428-413A-B53F-8B829F9C6BEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95A9B0BD-A278-4F44-812A-9F4E00FF5913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95A9B0BD-A278-4F44-812A-9F4E00FF5913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95A9B0BD-A278-4F44-812A-9F4E00FF5913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95A9B0BD-A278-4F44-812A-9F4E00FF5913}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D93C837F-D428-413A-B53F-8B829F9C6BEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D93C837F-D428-413A-B53F-8B829F9C6BEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D93C837F-D428-413A-B53F-8B829F9C6BEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D93C837F-D428-413A-B53F-8B829F9C6BEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72448D47-CF89-4DCC-98B6-E6F8593CA9C4}
+	EndGlobalSection
+EndGlobal
